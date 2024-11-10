@@ -91,7 +91,8 @@ Please follow the attached link for the assignment.
 
 
 ## DMoney API collection request
-![image](https://github.com/user-attachments/assets/ec91322b-0943-4e70-9c41-35705080f456)
+![Part 2](https://github.com/user-attachments/assets/8b1f820c-0e07-4fb8-8b7f-de4c8ffae3d2)
+
 
 
 
