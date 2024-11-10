@@ -1,3 +1,4 @@
+# Project Summary:
 ## I have completed following task:
 Create a JMeter collection (booking.jmx)
 ● Add the following properties to the Header Controller:
@@ -88,6 +89,9 @@ Please follow the attached link for the assignment.
 ![Screenshot 2024-11-04 221518](https://github.com/user-attachments/assets/c6ae4d85-fb5b-4799-b7a5-e0d0d6f0e78c)
 
 
+
+## DMoney API collection request
+![image](https://github.com/user-attachments/assets/ec91322b-0943-4e70-9c41-35705080f456)
 
 
 
